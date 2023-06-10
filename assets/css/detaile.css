@@ -36,6 +36,7 @@
 }
 .rin-card-title2 a{
     text-decoration:none;
+
 }
 .rin-card-part{
     margin-bottom: 15px;
@@ -89,9 +90,19 @@
 #last {
     text-align: center;
 }
+.rin-card-title {  
+    text-align: center;  
+  }
 #last .rin-card-title2{
     letter-spacing : 10px;
     margin-bottom: 10px;
+    text-align: center; 
+}
+.rin-card-title3 {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 8px;
+    text-align: center; 
 }
 #last .rin-card-content{
     font-size: 12px;
@@ -110,4 +121,17 @@
     font-weight: 700;
     transition: all .3s;
     text-decoration: none;
+}
+.rin-article-title{
+    color: white;
+    font-size: 18px;
+}
+.rin-article-content{
+    padding-top:10px;
+    color: white;
+    font-size: 14px;
+}
+.rin-card-article{
+    padding:15px;
+    /*margin-bottom: 10px;*/
 }
